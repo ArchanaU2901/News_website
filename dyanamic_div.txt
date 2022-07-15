@@ -1,0 +1,17 @@
+
+ <!-- <div class="container"> -->
+         <!--   <div class="services_img">
+                <img src="./images/Untitled.png" alt="" srcset="">
+            </div>
+            <div class="services_text">
+                <div class="title" id="title">Noise ColorFit Pro 4 and ColorFit Pro 4 Max smartwatches go on sale today - Times of
+                    India</div>
+                <div class="disc">The devices come with Bluetooth calling feature and allow users to make calls directly
+                    from the device and save contacts on the watch. Noise ColorFit </div>
+                    <a href="#">read more</a>
+                <div class="source">The Times of India</div>
+                <div class="time">2022-07-04T12:36:00Z</div>
+         </div>    -->
+
+
+            E:\fg\vs code\workplace\New folder\news_website\images\Untitled.png

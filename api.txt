@@ -1,0 +1,12 @@
+top heading :-
+https://newsapi.org/v2/top-headlines?country=in&apiKey=e0f400cd187f4e479e98e5e3abbfc5f1
+
+Top technology headlines from India
+https://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=e0f400cd187f4e479e98e5e3abbfc5f1
+
+
+Top science headlines from India
+https://newsapi.org/v2/top-headlines?country=in&category=science&apiKey=e0f400cd187f4e479e98e5e3abbfc5f1
+
+Top sports headlines from India
+https://newsapi.org/v2/top-headlines?country=in&category=sports&apiKey=e0f400cd187f4e479e98e5e3abbfc5f1
